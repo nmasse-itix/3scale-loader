@@ -1,6 +1,6 @@
 {
   "name": "3scale-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A script that loads sample data in 3scale",
   "main": "index.js",
   "scripts": {
