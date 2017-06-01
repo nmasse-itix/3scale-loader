@@ -1,0 +1,19 @@
+{
+  "name": "3scale-account-merger",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas MASSE",
+  "license": "MIT",
+  "bin": {
+    "3scale-loader": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "faker": "^4.1.0"
+  },
+  "repository": "https://github.com/nmasse-itix/3scale-loader.git"
+}
