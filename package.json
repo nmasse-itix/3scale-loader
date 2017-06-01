@@ -1,7 +1,7 @@
 {
-  "name": "3scale-account-merger",
+  "name": "3scale-loader",
   "version": "0.1.0",
-  "description": "",
+  "description": "A script that loads sample data in 3scale",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
